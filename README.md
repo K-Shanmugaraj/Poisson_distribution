@@ -29,8 +29,8 @@ Conditions for Poisson Distribution:<br>
 
 ### Program :
 ```
-Developed By: SATHISH R
-Register No: 212222230138
+Developed By: SHANMUGA RAJ.K
+Register No: 212223040192
 ```
 ```Python
 import numpy as np
